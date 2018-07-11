@@ -1,0 +1,80 @@
+INFO  | 2018-07-11 13:18:14 | [main] API.APICommon (APICommon.java:55) - Service Response
+INFO  | 2018-07-11 13:18:14 | [main] API.UserAPI (UserAPI.java:81) - Records deleted successfully using the API
+INFO  | 2018-07-11 13:18:24 | [main] common.WebDriverInstance (WebDriverInstance.java:62) - chromeBrowser  has been successfully launched
+INFO  | 2018-07-11 13:18:51 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : 
+INFO  | 2018-07-11 13:18:51 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : D1ZZvfBF@GAPXEGHC.com
+INFO  | 2018-07-11 13:18:51 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : wPBbqYMh
+INFO  | 2018-07-11 13:18:51 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : wPBbqYMh
+INFO  | 2018-07-11 13:18:53 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:18:53 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:18:53 | [main] com.TestUserScenarios (TestUserScenarios.java:53) - User Name Error Message Verification 
+INFO  | 2018-07-11 13:18:54 | [main] com.TestUserScenarios (TestUserScenarios.java:205) - New User Form Fields Displayed Text Assertion Test 
+INFO  | 2018-07-11 13:18:54 | [main] pages.UINewUser (UINewUser.java:229) - User Name Input Field Text : name
+INFO  | 2018-07-11 13:18:54 | [main] pages.UINewUser (UINewUser.java:246) - User EmailID Input Field Text : your@email.com
+INFO  | 2018-07-11 13:18:54 | [main] pages.UINewUser (UINewUser.java:263) - User Password Input Field Text : min 6 characters
+INFO  | 2018-07-11 13:18:54 | [main] pages.UINewUser (UINewUser.java:280) - User Confirm Password Input Field Text : min 6 characters
+INFO  | 2018-07-11 13:18:55 | [main] com.TestUserScenarios (TestUserScenarios.java:180) - Existing User Test 
+INFO  | 2018-07-11 13:18:55 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : dHNviGN4
+INFO  | 2018-07-11 13:18:55 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : arObpyPo@XZPLZXAN.com
+INFO  | 2018-07-11 13:18:55 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : Ld3dmrbI
+INFO  | 2018-07-11 13:18:56 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : Ld3dmrbI
+INFO  | 2018-07-11 13:18:57 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:18:57 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:18:58 | [main] pages.UIUserDetails (UIUserDetails.java:116) - Clicking New User Button
+INFO  | 2018-07-11 13:18:58 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : dHNviGN4
+INFO  | 2018-07-11 13:18:59 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : arObpyPo@XZPLZXAN.com
+INFO  | 2018-07-11 13:18:59 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : Ld3dmrbI
+INFO  | 2018-07-11 13:18:59 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : Ld3dmrbI
+INFO  | 2018-07-11 13:19:01 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:19:01 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:19:02 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : FhANlndn
+INFO  | 2018-07-11 13:19:02 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : 2eHs0OnC@DCDIJRCB.com
+INFO  | 2018-07-11 13:19:02 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : 
+INFO  | 2018-07-11 13:19:03 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : 
+INFO  | 2018-07-11 13:19:04 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:19:04 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:19:04 | [main] com.TestUserScenarios (TestUserScenarios.java:91) - User Password Message Verification
+INFO  | 2018-07-11 13:19:06 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : rmYFXbRS
+INFO  | 2018-07-11 13:19:06 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : 
+INFO  | 2018-07-11 13:19:06 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : xCMqZgIw
+INFO  | 2018-07-11 13:19:06 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : xCMqZgIw
+INFO  | 2018-07-11 13:19:09 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:19:09 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:19:09 | [main] com.TestUserScenarios (TestUserScenarios.java:72) - Email Error Message Verification 
+INFO  | 2018-07-11 13:19:10 | [main] com.TestUserScenarios (TestUserScenarios.java:158) - Different Confirm Password Test 
+INFO  | 2018-07-11 13:19:11 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : zgjMcxI2
+INFO  | 2018-07-11 13:19:11 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : Jw61CsuH@JJREHYEY.com
+INFO  | 2018-07-11 13:19:11 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : GCAVxESk
+INFO  | 2018-07-11 13:19:11 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : 111111
+INFO  | 2018-07-11 13:19:16 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:19:16 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:19:19 | [main] API.APICommon (APICommon.java:55) - Service Response[{"name":"dHNviGN4","email":"arObpyPo@XZPLZXAN.com","password":"Ld3dmrbI","id":4437}]
+ERROR | 2018-07-11 13:19:19 | [main] API.UserAPI (UserAPI.java:60) - Unable to find the records from the API
+INFO  | 2018-07-11 13:19:20 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : 
+INFO  | 2018-07-11 13:19:20 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : 
+INFO  | 2018-07-11 13:19:20 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : 
+INFO  | 2018-07-11 13:19:20 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : 
+INFO  | 2018-07-11 13:19:22 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:19:22 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:19:22 | [main] com.TestUserScenarios (TestUserScenarios.java:107) - User Name Error Message Verification 
+INFO  | 2018-07-11 13:19:22 | [main] com.TestUserScenarios (TestUserScenarios.java:109) - User Email Message Verification
+INFO  | 2018-07-11 13:19:22 | [main] com.TestUserScenarios (TestUserScenarios.java:111) - User Password Message Verification
+INFO  | 2018-07-11 13:19:23 | [main] com.TestUserScenarios (TestUserScenarios.java:125) - Valid User Test
+INFO  | 2018-07-11 13:19:23 | [main] pages.UINewUser (UINewUser.java:64) - User Name entered in User Name field Successfully : DxBc8UIM
+INFO  | 2018-07-11 13:19:23 | [main] pages.UINewUser (UINewUser.java:78) - User Email ID entered in email id field successfully : Q6pImJSP@LSUINLIQ.com
+INFO  | 2018-07-11 13:19:23 | [main] pages.UINewUser (UINewUser.java:92) - User Password entered in password field successfully : 3yMoaTVK
+INFO  | 2018-07-11 13:19:23 | [main] pages.UINewUser (UINewUser.java:106) - User Confirm password entered in confirm password field successfully : 3yMoaTVK
+INFO  | 2018-07-11 13:19:26 | [main] pages.UINewUser (UINewUser.java:119) - Submit Button successfully clicked 
+INFO  | 2018-07-11 13:19:26 | [main] pages.UINewUser (UINewUser.java:304) - Successfully Submitted New user Details 
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:99) - Verifying new user button displayed on All Users Page : true
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:47) - Fetching new user name from all users table : DxBc8UIM
+INFO  | 2018-07-11 13:19:27 | [main] com.TestUserScenarios (TestUserScenarios.java:133) - New User Name Matched
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:47) - Fetching new user name from all users table : DxBc8UIM
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:64) - Fetching new user email id from all users table : Q6pImJSP@LSUINLIQ.com
+INFO  | 2018-07-11 13:19:27 | [main] com.TestUserScenarios (TestUserScenarios.java:138) - New User Email ID Matched
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:64) - Fetching new user email id from all users table : Q6pImJSP@LSUINLIQ.com
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:81) - Fetching new user password from all users table : 3yMoaTVK
+INFO  | 2018-07-11 13:19:27 | [main] com.TestUserScenarios (TestUserScenarios.java:142) - New User password matched
+INFO  | 2018-07-11 13:19:27 | [main] pages.UIUserDetails (UIUserDetails.java:81) - Fetching new user password from all users table : 3yMoaTVK
+INFO  | 2018-07-11 13:19:28 | [main] API.APICommon (APICommon.java:55) - Service Response[{"name":"dHNviGN4","email":"arObpyPo@XZPLZXAN.com","password":"Ld3dmrbI","id":4437},{"name":"DxBc8UIM","email":"Q6pImJSP@LSUINLIQ.com","password":"3yMoaTVK","id":4438}]
+INFO  | 2018-07-11 13:19:28 | [main] API.UserAPI (UserAPI.java:57) - Records found using the API

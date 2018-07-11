@@ -1,0 +1,20 @@
+INFO  | 2018-07-11 02:49:09 | [main] com.TestUserScenarios (TestUserScenarios.java:39) - ======================================================
+INFO  | 2018-07-11 02:49:10 | [main] com.TestUserScenarios (TestUserScenarios.java:41) - User Name Error Message Verification 
+INFO  | 2018-07-11 02:49:10 | [main] com.TestUserScenarios (TestUserScenarios.java:43) - User Email Message Verification
+INFO  | 2018-07-11 02:49:11 | [main] com.TestUserScenarios (TestUserScenarios.java:45) - User Password Message Verification
+INFO  | 2018-07-11 02:49:11 | [main] com.TestUserScenarios (TestUserScenarios.java:48) - ======================================================
+INFO  | 2018-07-11 02:49:11 | [main] com.TestUserScenarios (TestUserScenarios.java:135) - New User Form Fields Displayed Text Assertion Test 
+INFO  | 2018-07-11 02:49:11 | [main] com.TestUserScenarios (TestUserScenarios.java:136) - ======================================================
+INFO  | 2018-07-11 02:49:11 | [main] com.TestUserScenarios (TestUserScenarios.java:143) - ======================================================
+INFO  | 2018-07-11 02:49:12 | [main] com.TestUserScenarios (TestUserScenarios.java:111) - Existing User Test 
+INFO  | 2018-07-11 02:49:12 | [main] com.TestUserScenarios (TestUserScenarios.java:112) - ======================================================
+INFO  | 2018-07-11 02:49:15 | [main] com.TestUserScenarios (TestUserScenarios.java:125) - ======================================================
+INFO  | 2018-07-11 02:49:16 | [main] com.TestUserScenarios (TestUserScenarios.java:90) - Different Confirm Password Test 
+INFO  | 2018-07-11 02:49:16 | [main] com.TestUserScenarios (TestUserScenarios.java:91) - ======================================================
+INFO  | 2018-07-11 02:49:18 | [main] com.TestUserScenarios (TestUserScenarios.java:101) - ======================================================
+INFO  | 2018-07-11 02:49:18 | [main] com.TestUserScenarios (TestUserScenarios.java:57) - Valid User Test
+INFO  | 2018-07-11 02:49:18 | [main] com.TestUserScenarios (TestUserScenarios.java:58) - ======================================================
+INFO  | 2018-07-11 02:49:20 | [main] com.TestUserScenarios (TestUserScenarios.java:67) - New User Name Matched
+INFO  | 2018-07-11 02:49:20 | [main] com.TestUserScenarios (TestUserScenarios.java:72) - New User Email ID Matched
+INFO  | 2018-07-11 02:49:20 | [main] com.TestUserScenarios (TestUserScenarios.java:76) - New User password matched
+INFO  | 2018-07-11 02:49:20 | [main] com.TestUserScenarios (TestUserScenarios.java:81) - ======================================================
